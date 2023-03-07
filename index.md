@@ -23,12 +23,28 @@ to [opensource@mitre.org](mailto:opensource@mitre.org).
 
 A selection of [repositories in the MITRE organization](https://github.com/mitre):
 
+* [asgard_collision_avoidance](https://github.com/mitre/asgard_collision_avoidance)
 * [atdf](https://github.com/mitre/atdf) Automated Test Decision Framework. Decision aid tool helps prioritize introduction of automated test to legacy systems in the DevOps pipeline.
-* [Callisto](https://mitre.github.io/callisto/) Text Markup Application
-* [CPSA](https://github.com/mitre/cpsa) Cryptographic Protocol Shapes Analyzer
+* [biqt](https://github.com/mitre/biqt) [biqt-iris](https://github.com/mitre/biqt-iris), [biqt-face](https://github.com/mitre/biqt-face), [biqt-contact-detector](https://github.com/mitre/biqt-contact-detector)
+* [caret]() 
+* [chatbot-accessibility-playbook]() 
+* [codi-schema]() 
+* [cosa]() 
+* [fhir-exercises]()
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
-* [ptmatch](https://github.com/mitre/ptmatch) and [ptmatch-frontend](https://github.com/mitre/ptmatch-frontend) A patient matching service that builds on the Intervention Engine FHIR Server
-* [Vulnerable Mobile Apps](https://mitre.github.io/vulnerable-mobile-apps/) A collection of mobile apps that demonstrate vulnerabilities and privacy violating behaviors.
+* [geodetic_library]() 
+* [growthcleanr-web]()
+* [icap]() 
+* [im_sample_algorithm]() 
+* [linkage-agent-tools]() 
+* [mitre_fast_layered_map]() 
+* [PQViz]() 
+* [ptmerge]() ptmerge-frontend
+* [quaerite]() 
+* [SRGM]() 
+* [thumbtack]() thumbtack-client
+* [trace]() 
+* [yararules-python]() 
 
 ## Organizations
 
