@@ -26,25 +26,25 @@ A selection of [repositories in the MITRE organization](https://github.com/mitre
 * [asgard_collision_avoidance](https://github.com/mitre/asgard_collision_avoidance)
 * [atdf](https://github.com/mitre/atdf) Automated Test Decision Framework. Decision aid tool helps prioritize introduction of automated test to legacy systems in the DevOps pipeline.
 * [biqt](https://github.com/mitre/biqt) [biqt-iris](https://github.com/mitre/biqt-iris), [biqt-face](https://github.com/mitre/biqt-face), [biqt-contact-detector](https://github.com/mitre/biqt-contact-detector)
-* [caret]() 
-* [chatbot-accessibility-playbook]() 
-* [codi-schema]() 
-* [cosa]() 
-* [fhir-exercises]()
+* [caret](https://github.com/mitre/caret) 
+* [chatbot-accessibility-playbook](https://github.com/mitre/chatbot-accessibility-playbook) 
+* [codi-schema](https://github.com/mitre/codi-schema) 
+* [cosa](https://github.com/mitre/cosa) 
+* [fhir-exercises](https://github.com/mitre/fhir-exercises)
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
-* [geodetic_library]() 
-* [growthcleanr-web]()
-* [icap]() 
-* [im_sample_algorithm]() 
-* [linkage-agent-tools]() 
-* [mitre_fast_layered_map]() 
-* [PQViz]() 
-* [ptmerge]() ptmerge-frontend
-* [quaerite]() 
-* [SRGM]() 
-* [thumbtack]() thumbtack-client
-* [trace]() 
-* [yararules-python]() 
+* [geodetic_library](https://github.com/mitre/geodetic_library) 
+* [growthcleanr-web](https://github.com/mitre/growthcleanr-web)
+* [icap](https://github.com/mitre/icap) 
+* [im_sample_algorithm](https://github.com/mitre/im_sample_algorithm) 
+* [linkage-agent-tools](https://github.com/mitre/linkage-agent-tools) 
+* [mitre_fast_layered_map](https://github.com/mitre/mitre_fast_layered_map) 
+* [PQViz](https://github.com/mitre/PQViz) 
+* [ptmerge](https://github.com/mitre/ptmerge) [ptmerge-frontend](https://github.com/mitre/ptmerge-frontend)
+* [quaerite](https://github.com/mitre/quaerite) 
+* [SRGM](https://github.com/mitre/SRGM) 
+* [thumbtack](https://github.com/mitre/thumbtack) [thumbtack-client](https://github.com/mitre/thumbtack-client)
+* [trace](https://github.com/mitre/trace) 
+* [yararules-python](https://github.com/mitre/yararules-python) 
 
 ## Organizations
 
