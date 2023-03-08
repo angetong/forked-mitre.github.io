@@ -23,28 +23,28 @@ to [opensource@mitre.org](mailto:opensource@mitre.org).
 
 A selection of [repositories in the MITRE organization](https://github.com/mitre):
 
-* [asgard_collision_avoidance](https://github.com/mitre/asgard_collision_avoidance)
+* [asgard_collision_avoidance](https://github.com/mitre/asgard_collision_avoidance) Analytic Safety Guarantees for Autonomous Robotic Devices (ASGARD) is a set of Matlab-based software tools that enable simple composition of collision avoidance into nominal autonomous vehicle behaviors.
 * [atdf](https://github.com/mitre/atdf) Automated Test Decision Framework. Decision aid tool helps prioritize introduction of automated test to legacy systems in the DevOps pipeline.
-* [biqt](https://github.com/mitre/biqt) [biqt-iris](https://github.com/mitre/biqt-iris), [biqt-face](https://github.com/mitre/biqt-face), [biqt-contact-detector](https://github.com/mitre/biqt-contact-detector)
-* [caret](https://github.com/mitre/caret) 
-* [chatbot-accessibility-playbook](https://github.com/mitre/chatbot-accessibility-playbook) 
-* [codi-schema](https://github.com/mitre/codi-schema) 
-* [cosa](https://github.com/mitre/cosa) 
-* [fhir-exercises](https://github.com/mitre/fhir-exercises)
+* [biqt](https://github.com/mitre/biqt) The Biometric Image Quality Toolkit (BIQT) is an extensible framework for evaluating the quality of biometric images. More libraries under BIQT [biqt-iris](https://github.com/mitre/biqt-iris), [biqt-face](https://github.com/mitre/biqt-face), [biqt-contact-detector](https://github.com/mitre/biqt-contact-detector)
+* [caret](https://github.com/mitre/caret) The Cyber Analytic Repository Exploration Tool (CARET) is a proof-of-concept graphical user interface designed to connect ATT&CK™ and MITRE's Cyber Analytics Repository (CAR)
+* [chatbot-accessibility-playbook](https://github.com/mitre/chatbot-accessibility-playbook) Repository for the Chatbot Accessibility Playbook.
+* [codi-schema](https://github.com/mitre/codi-schema) Create database tables to represent the CDM (PCORnet Common Data Model).
+* [cosa](https://github.com/mitre/cosa) Compliance Orchestration Situational Awareness is a prototype system (not for production use) to demonstrate how control compliance automation can be incorporated into a DevSecOps pipeline.
+* [fhir-exercises](https://github.com/mitre/fhir-exercises) This repository contains exercises related to using FHIR to gather data for analysis in R and Python.
 * [FMACM](https://github.com/mitre/fmacm) An aircraft and control model for Flight Deck Interval Management MOPS testing by RTCA SC-186 members.
-* [geodetic_library](https://github.com/mitre/geodetic_library) 
-* [growthcleanr-web](https://github.com/mitre/growthcleanr-web)
-* [icap](https://github.com/mitre/icap) 
-* [im_sample_algorithm](https://github.com/mitre/im_sample_algorithm) 
-* [linkage-agent-tools](https://github.com/mitre/linkage-agent-tools) 
-* [mitre_fast_layered_map](https://github.com/mitre/mitre_fast_layered_map) 
-* [PQViz](https://github.com/mitre/PQViz) 
-* [ptmerge](https://github.com/mitre/ptmerge) [ptmerge-frontend](https://github.com/mitre/ptmerge-frontend)
-* [quaerite](https://github.com/mitre/quaerite) 
-* [SRGM](https://github.com/mitre/SRGM) 
-* [thumbtack](https://github.com/mitre/thumbtack) [thumbtack-client](https://github.com/mitre/thumbtack-client)
-* [trace](https://github.com/mitre/trace) 
-* [yararules-python](https://github.com/mitre/yararules-python) 
+* [geodetic_library](https://github.com/mitre/geodetic_library) Geodetic library (or geolib) is a library for performing WGS-84 calculations with high precision.
+* [growthcleanr-web](https://github.com/mitre/growthcleanr-web) A simple web interface to the growthcleanr R package for cleaning clinical height and weight measurements.
+* [icap](https://github.com/mitre/icap) Internet Content Adaptation Protocol (ICAP) Analyzer for the Bro and Zeek Network Security Monitor.
+* [im_sample_algorithm](https://github.com/mitre/im_sample_algorithm) MITRE's Interval Management Sample Algorithm
+* [linkage-agent-tools](https://github.com/mitre/linkage-agent-tools) Tools for the Childhood Obesity Data Initative (CODI) Linkage Agent to use to accept garbled input from data owners / partners, perform matching and generate network IDs. 
+* [mitre_fast_layered_map](https://github.com/mitre/mitre_fast_layered_map) This package contains a high-speed lidar and gridmap based mapping solution for unstructured environments and an editable "static map" for use in recording obstacles over large distances. 
+* [PQViz](https://github.com/mitre/PQViz) PQViz was developed in partnership between the Health FFRDC and CDC to support post-processing and data visualization output from the CODI Prevalence Query (CODI-PQ) tools.
+* [ptmerge](https://github.com/mitre/ptmerge) A service for merging two HL7 FHIR patient records. Can be coupled with the [ptmerge-frontend](https://github.com/mitre/ptmerge-frontend)
+* [quaerite](https://github.com/mitre/quaerite) This project includes tools to help evaluate relevance ranking.
+* [SRGM](https://github.com/mitre/SRGM) Software Reliability Growth Model's purpose is for determining contractor obligations on delivering code and reports as well as manipulate the JIRA export data to a form acceptable by the SFRAT.
+* [thumbtack](https://github.com/mitre/thumbtack) Thumbtack is a web front-end providing a REST-ful API to mount and unmount forensic disk images, built on top of the imagemounter library. A client for communicating with a Thumbtack server: [thumbtack-client](https://github.com/mitre/thumbtack-client).
+* [trace](https://github.com/mitre/trace) Traversal-driven Risk Assessment of Composite Effects is an analysis method developed by MITRE to perform threat-based risk assessments on cyber-enabled systems.
+* [yararules-python](https://github.com/mitre/yararules-python) Scan files and directories with multiple rules files, without cross-file rule name collision.
 
 ## Organizations
 
@@ -84,16 +84,3 @@ The following GitHub organizations host MITRE-developed code:
 * [TAXII](https://github.com/TAXIIProject) Trusted Automated eXchange of Indicator Information
 * [Transcript](https://github.com/project-transcript/) Pharmacy informatics tools for information extraction and error checking.
 
-## Other Repositories
-
-* [Atmospheric](https://github.com/atmospheric/atmospheric) MATLAB Toolbox for accessing, analyzing, and visualizing atmospheric data.
-* [Bonnie](https://github.com/projecttacoma/bonnie) Clinical Quality Measure Testing Tool
-* [Cogulator](http://cogulator.github.io/Cogulator/) A Cognitive Modeling Calculator
-* [Control-Component-Library](https://github.com/buffetboy2001/Control-Component-Library) Control Component Library (PIDs, Saturators, etc.) and associated integrators &amp; differentiators for Java
-* [Generation AI Nexus](https://github.com/Generation-AI-Nexus) Generation AI Nexus Courseware and Materials
-* [Intellect](https://github.com/nemonik/Intellect) DSL and Rules Engine For Python
-* [IVML](https://jegentile.github.io/ivml/) Interactive Visualization Markup Language library
-* [MAT](http://mat-annotation.sourceforge.net/) MITRE Annotation Toolkit
-* [MIST](http://mist-deid.sourceforge.net/) MITRE Identification Scrubber Toolkit
-* [PLUS](https://github.com/plus-provenance/plus) Provenance: Understanding and Linking Sources is a system for capturing, querying, and analyzing data provenance
-* [secretsharing](https://github.com/secretsharing/secretsharing) A Java implementation of the Shamir Secret Sharing Scheme vetted by MITRE cryptographers.
