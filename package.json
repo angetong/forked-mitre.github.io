@@ -1,6 +1,6 @@
 {
-  "name": "forked-mitre.github.io",
-  "version": "0.1.0",
+  "name": "",
+  "version": "",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
@@ -11,8 +11,8 @@
     "bootstrap": "^5.2.3",
     "bootstrap-vue": "^2.23.1",
     "core-js": "^3.8.3",
-    "vue": "2.6",
-    "vue-template-compiler": "^2.6.14"
+    "vue": "^2.6.14",
+    "vue-router": "3.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.16",
@@ -21,7 +21,8 @@
     "@vue/cli-plugin-eslint": "~5.0.0",
     "@vue/cli-service": "~5.0.0",
     "eslint": "^7.32.0",
-    "eslint-plugin-vue": "^8.0.3"
+    "eslint-plugin-vue": "^8.0.3",
+    "vue-template-compiler": "^2.6.14"
   },
   "eslintConfig": {
     "root": true,
@@ -29,18 +30,21 @@
       "node": true
     },
     "extends": [
-      "plugin:vue/vue3-essential",
+      "plugin:vue/essential",
       "eslint:recommended"
     ],
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     },
-    "rules": {}
+    "rules": {
+      "vue/multi-word-component-names": 0
+    }
   },
   "browserslist": [
     "> 1%",
     "last 2 versions",
-    "not dead",
-    "not ie 11"
-  ]
+    "not dead"
+  ],
+  "_id": "@",
+  "readme": "ERROR: No README data found!"
 }

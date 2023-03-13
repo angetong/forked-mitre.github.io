@@ -1,24 +1,17 @@
 <template>
   <div>
-    <b-navbar class="navbar" toggleable="lg">
-        <b-navbar-brand href="#">MITRE Open Source</b-navbar-brand>
-        <b-navbar-nav>
-          <b-nav-item href="#">Repositories</b-nav-item>
-          <b-nav-item href="#">Organizations</b-nav-item>
-        </b-navbar-nav>
-    </b-navbar>
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Header />
+    <router-view />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Header from './components/Header.vue'
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    Header
   }
 }
 </script>
@@ -29,7 +22,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  /* color: #2c3e50; */
   /* margin-top: 60px; */
 }
 .navbar {
